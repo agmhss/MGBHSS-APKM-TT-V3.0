@@ -6,7 +6,7 @@
 const APP_CONFIG = {
     fullName: "Marwar Govt Boys Hr.Sec.School, Acharapakkam", 
     shortName: "MGBHSS Acharapakkam",                                           
-    scriptUrl: "https://script.google.com/macros/s/AKfycbyd8tRhf0gzoKF__ysQVYunmLruK7EVF8DXOBx5_ubTPACGu1RcI66bkgCC5r3sF9We/exec" 
+    scriptUrl: "https://script.google.com/macros/s/AKfycbyjor9Lfrnfqz2sqzzNpjKYIMOFUA-uWvg8LedAVfVd4f9aPDNMmbduFJvb7HZrgYOHAg/exec" 
 };
 const SCRIPT_URL = APP_CONFIG.scriptUrl;
 
